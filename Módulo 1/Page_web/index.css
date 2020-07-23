@@ -1,0 +1,19 @@
+.texto-hearder {
+  color: green;
+  background-color: ivory;
+}
+
+#texto2 {
+  color: blue;
+}
+
+.borda {
+  border: solid 11px #00b9b4;
+  border-radius: 27px;
+  padding: 10px;
+}
+
+#paragrafo {
+  margin: 10px 20px 30px 40px;
+  /* top,bottom,left,right */
+}
