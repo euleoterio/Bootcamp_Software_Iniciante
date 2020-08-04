@@ -1,0 +1,4 @@
+1;Vinicius Euleoterio;24;Solteiro
+2;Jessica Oliveira;34;Solteira
+3;Joao Silva;20;Casado
+4;Maria Santos;30;Viuva
